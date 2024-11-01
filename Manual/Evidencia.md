@@ -47,7 +47,7 @@ Evidencias del funcionamiento de los componentes que se usuaron en el proyecto.
 - **Descripción adicional:** Campo fecha.
 
 ## Evidencia 6:
-![6 Parte](mg/range.png)
+![6 Parte](img/range.png)
 
 ### Detalles
 - **Fecha:** [30/10/2024]
